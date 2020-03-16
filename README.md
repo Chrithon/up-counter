@@ -50,6 +50,8 @@ get_likes(UID,Cookie)
 
 当然，你还需要Qt 设计师来设计你的界面。如果你是大师球的话，你可以自己手打一个GUI程序，或者就像Visual Studio Code或者Electron一样，自己做个基于Html文件的计数器。
 
+具体教程：https://www.bilibili.com/read/cv5110511
+
 当然，如果你用其他编程语言写程序，也没关系！直接Fork并修改我的项目吧！（别把核心代码删了就行，除非你要从头开始写计数器核心）
 
 ## 其他语言接口
